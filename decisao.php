@@ -78,6 +78,7 @@ if($Uniformes == true && $Chegada == true ){
 }
   
 
+//ternario
 echo "<br><br>";
 $Uniformes = false;
 $Chegada = true;
